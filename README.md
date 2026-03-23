@@ -1,4 +1,4 @@
-# NLP Text Summarizer
+#Python NLP Text Summarizer
 
 **NLP Text Summarizer** is a Python-based NLP project that automatically generates concise summaries of text documents.  
 It uses a **graph-based extractive summarization approach** combining TF-IDF and PageRank (TextRank) to identify the most important sentences.
